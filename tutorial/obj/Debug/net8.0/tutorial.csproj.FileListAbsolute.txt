@@ -1,0 +1,15 @@
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\bin\Debug\net8.0\tutorial.exe
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\bin\Debug\net8.0\tutorial.deps.json
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\bin\Debug\net8.0\tutorial.runtimeconfig.json
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\bin\Debug\net8.0\tutorial.dll
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\bin\Debug\net8.0\tutorial.pdb
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.AssemblyInfo.cs
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.dll
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\refint\tutorial.dll
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.pdb
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.genruntimeconfig.cache
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\ref\tutorial.dll
+C:\Users\Acer\Downloads\src code\c#\tutorial\tutorial\obj\Debug\net8.0\tutorial.sourcelink.json
