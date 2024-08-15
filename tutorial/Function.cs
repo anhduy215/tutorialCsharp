@@ -26,7 +26,7 @@ public class Function
             Console.WriteLine(item.ToString());
         }
     }
-    //tutorial hàm sắp xếp tuổi của các sinh viên có dùng if và while
+    //tutorial collection và foreach
     public void showByAge()
     {
         // sắp xếp theo tuổi và lưu vào ds tạm
